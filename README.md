@@ -1,0 +1,1 @@
+This repository contains a clone of the twogood.com website, a platform known for beautiful, high quality food products. The purpose of this project is to showcase web development skills, practice front-end and back-end technologies, and create a functional replica of the original site.
